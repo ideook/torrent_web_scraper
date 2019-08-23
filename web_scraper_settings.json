@@ -1,0 +1,13 @@
+{
+    "enable-torrentwal": "True",
+    "history": {
+        "torrentdal_kortv_drm": 168008,
+        "torrentdal_kortv_ent": 896193,
+        "torrentwal_kortv_drm": 0,
+        "torrentwal_kortv_ent": 0
+    },
+    "page_scrwap_max": 10,
+    "trans-id": "ideook",
+    "trans-port": "9091",
+    "trans-pw": "erun81"
+}
